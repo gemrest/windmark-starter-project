@@ -5,7 +5,7 @@
 Get started by cloning this project with Git and `cd`ing into it!
 
 ```shell
-git clone https://github.com/gemrest/windmark-start-project
+git clone https://github.com/gemrest/windmark-starter-project
 cd windmark-starter-project
 ```
 
