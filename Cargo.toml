@@ -1,0 +1,16 @@
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+name = "windmark-starter-project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Update this to the latest version!
+#
+# Gemini Server Framework
+windmark = "0.1.20"
+
+# Asynchronous Runtime
+tokio = { version = "0.2.4", features = ["full"] }
+
